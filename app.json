@@ -1,0 +1,8 @@
+{
+  "name": "MK",
+  "description": "Unblocked Games",
+  "repository": "https://github.com/mkykg/mkykg.github.io/",
+  "logo": "logo.png",
+  "keywords": ["school", "education"],
+  "image": "heroku/nodejs"
+}
