@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
     tab.className = "tab";
     tab.innerHTML = `
       <div class="tabicon">
-        <img src="/assets/img/favicon.ico" alt="icon">
+        <img src="/assets/img/favicon.ico" alt="">
       </div>
       <span class="tab-title">New Tab</span>
       <div class="close"><i class="fa fa-close"></i></div>
