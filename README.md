@@ -11,4 +11,4 @@ An Amazing browser
 
 ## Contributors
 
-[![Contributors](https://contrib.rocks/image?repo=mkykg/mkykg.github.io)](https://github.com/mkykg/mkykg.github.io/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=unblora/unblora.github.io)](https://github.com/unblora/unblora.github.io/graphs/contributors)

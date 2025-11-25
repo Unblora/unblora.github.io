@@ -257,7 +257,7 @@ body {
   background-color: var(--main);
   overflow-x: hidden;
   overflow-y: auto;
-  top: 80px;
+  top: 90px;
   left: 0;
   right: 0;
   bottom: 0;
@@ -342,8 +342,8 @@ body {
   margin-top: 150px;
 }
 .icon {
-  width: 25px;
-  height: 25px;
+  width: 23px;
+  height: 23px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -352,7 +352,7 @@ body {
   margin: 11px 0 0 115px;
   font-size: 15px;
   color: var(--color);
-  /* background-color: var(--white); */
+  background-color: var(--white);
 }
 .shortcuts {
   width: 100%;
